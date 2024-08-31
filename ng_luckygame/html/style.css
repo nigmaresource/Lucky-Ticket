@@ -1,0 +1,213 @@
+@import url('https://fonts.cdnfonts.com/css/akrobat');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+}
+
+#container {
+    position: absolute;
+    top: 30px;
+    left: 550px;
+    width: 700px;
+    height: 1000px;
+    background-image: url(img/backround.png);
+    border-radius: 2%;
+    overflow: hidden;
+}
+
+#title {
+    position: absolute;
+    font-size: 80px;
+    font-style: italic;
+    font-weight: bolder;
+    color: rgb(255, 217, 0);
+    top: 50px;
+    left: 145px;
+}
+
+#numbertitle {
+    position: absolute;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(208, 255, 0);
+    top: 200px;
+    left: 40px;
+}
+
+#luckynumbertitle {
+    position: absolute;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(208, 255, 0);
+    top: 165px;
+    left: 455px;
+}
+
+#mynumber {
+    position: absolute;
+    width: 350px;
+    height: 1000px;
+}
+
+#number1 {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(232, 232, 245, 0.342);
+    top: 290px;
+    left: 100px;
+    border-radius: 100px;
+}
+
+#number1text {
+    position: absolute;
+    font-size: 80px;
+    top: 26px;
+    left: 40px;
+    color: whitesmoke;
+}
+
+#number2 {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(232, 232, 245, 0.342);
+    top: 470px;
+    left: 100px;
+    border-radius: 100px;
+}
+
+#number2text {
+    position: absolute;
+    font-size: 80px;
+    top: 26px;
+    left: 40px;
+    color: whitesmoke;
+}
+
+#number3 {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(232, 232, 245, 0.342);
+    top: 650px;
+    left: 100px;
+    border-radius: 100px;
+}
+
+#number3text {
+    position: absolute;
+    font-size: 80px;
+    top: 26px;
+    left: 40px;
+    color: whitesmoke;
+}
+
+#lnumber {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(232, 232, 245, 0.342);
+    top: 820px;
+    left: 100px;
+    border-radius: 100px;
+}
+
+#lnumbertext {
+    position: absolute;
+    font-size: 80px;
+    top: 26px;
+    left: 40px;
+    color: whitesmoke;
+}
+
+#luckynumberall {
+    position: absolute;
+    width: 350px;
+    height: 1000px;
+}
+
+#luckynumber1 {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(173, 173, 245, 0.527);
+    top: 290px;
+    left: 455px;
+    border-radius: 100px;
+}
+
+#luckynumber1text {
+    position: absolute;
+    font-size: 80px;
+    top: 26px;
+    left: 40px;
+    color: whitesmoke;
+}
+
+#luckynumber2 {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(173, 173, 245, 0.527);
+    top: 470px;
+    left: 455px;
+    border-radius: 100px;
+}
+
+#luckynumber2text {
+    position: absolute;
+    font-size: 80px;
+    top: 26px;
+    left: 40px;
+    color: whitesmoke;
+}
+
+#luckynumber3 {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(173, 173, 245, 0.527);
+    top: 650px;
+    left: 455px;
+    border-radius: 100px;
+}
+
+#luckynumber3text {
+    position: absolute;
+    font-size: 80px;
+    top: 26px;
+    left: 40px;
+    color: whitesmoke;
+}
+
+#luckynumber {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(173, 173, 245, 0.527);
+    top: 820px;
+    left: 455px;
+    border-radius: 100px;
+}
+
+#luckynumbertext {
+    position: absolute;
+    font-size: 80px;
+    top: 26px;
+    left: 40px;
+    color: whitesmoke;
+}
