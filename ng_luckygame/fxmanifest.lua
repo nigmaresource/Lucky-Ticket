@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 games { 'gta5' }
-author 'author'
+author 'https://discord.gg/goldscripts'
 
 ui_page "html/index.html"
 
